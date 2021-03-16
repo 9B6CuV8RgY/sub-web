@@ -725,7 +725,7 @@ export default {
       form: {
         sourceSubUrl: "",
         clientType: "",
-        customBackend: "https://api.wcc.best/sub?",
+        customBackend: "https://dyzh.jksaigao.ml/sub?",
         shortType: "https://v1.mk/short",
         remoteConfig: "https://raw.githubusercontent.com/limr95/webcdn/main/rule/no-urltest.ini",
         excludeRemarks: "",
